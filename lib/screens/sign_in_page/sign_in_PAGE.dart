@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:time_tracker/custom_widgets/custom_raised_button.dart';
 import 'package:time_tracker/screens/sign_in_page/sign_in_button.dart';
 import 'package:time_tracker/screens/sign_in_page/social_sign_in_button.dart';
 

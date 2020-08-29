@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:time_tracker/screens/sign_in_page/sign_in.dart';
+import 'package:time_tracker/screens/sign_in_page/sign_in_PAGE.dart';
 
 void main() {
   runApp(MyApp());

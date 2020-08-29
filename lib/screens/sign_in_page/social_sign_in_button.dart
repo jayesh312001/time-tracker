@@ -15,6 +15,7 @@ class SocialSignInButton extends CustomRaisedButton {
       this.textColor,
       this.onPressed})
       : assert(text != null),
+        assert(assetName != null),
         super(
           child: Row(
             mainAxisAlignment: MainAxisAlignment.spaceBetween,
