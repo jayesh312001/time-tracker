@@ -27,3 +27,4 @@
 - Curved Animation (cool af)
 - AnimationStatus
 - ColorTween
+- ModalProgress HUD
