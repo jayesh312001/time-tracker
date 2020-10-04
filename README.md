@@ -18,6 +18,9 @@
 - await suspends the execution until future returns a value
 - Singleton design method permits no more than one instance of a class 
 
+### 04 Authentication
+- 'widget.name.function()' is just like 'this.name', it is used to access the variable of the same super class.
+
 ## New Widgets
 - Opacity
 - Equatable (Compares objects)
